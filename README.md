@@ -26,11 +26,6 @@ I build **intelligent, autonomous, and data-driven systems** that interact with 
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-- **Python** (OOP, Functional Programming)
-- SQL
-- JavaScript, HTML/CSS
-
 ### 🤖 AI / ML
 - PyTorch, TensorFlow, Keras
 - Scikit-learn
@@ -51,10 +46,10 @@ I build **intelligent, autonomous, and data-driven systems** that interact with 
 - PettingZoo
 
 ### 📊 Data & Tools
-- NumPy, Pandas, Matplotlib
-- Power BI
-- PostgreSQL
-- Git & GitHub
+- NumPy
+- Pandas
+- Matplotlib
+- Git 
 - TensorBoard
 - VS Code
 
@@ -124,18 +119,13 @@ I build **intelligent, autonomous, and data-driven systems** that interact with 
 
 ---
 
-## 📊 GitHub Stats
-![Kudret's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
 
-> 🔧 Replace `KULLANICI_ADIN` with your GitHub username
 
 ---
 
 ## 📫 Connect with Me
 - 📧 **Email:** kudretorucciftci@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/kudretoruc  
-- 💻 **GitHub:** github.com/kudretoruc  
+- 💼 **LinkedIn:** [linkedin.com/in/kudretorucciftci ](https://www.linkedin.com/in/kudretorucciftci?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw2Bzo3hTShWN5PIelOUJTg%3D%3D)
 
 ---
 
